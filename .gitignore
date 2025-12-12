@@ -28,6 +28,9 @@
 *.md
 !README.md
 !README_EN.md
+!docs/*.md
+!backend/README.md
+!frontend/README.md
 *.pyc
 .env
 *.ppt

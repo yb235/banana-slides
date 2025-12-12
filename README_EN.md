@@ -431,12 +431,74 @@ banana-slides/
 ```
 
 
+## 📚 Complete Documentation
+
+To help developers and users better understand and use Banana Slides, we provide comprehensive technical documentation:
+
+### Quick Navigation
+
+| Documentation | Description |
+|--------------|-------------|
+| **[Architecture](docs/ARCHITECTURE.md)** | System architecture, tech stack, data flow, and core components |
+| **[Backend Guide](docs/BACKEND.md)** | Backend code structure, models, services, controllers, and workflows |
+| **[Frontend Guide](docs/FRONTEND.md)** | Frontend components, state management, pages, and user interactions |
+| **[API Reference](docs/API.md)** | Complete REST API documentation with examples |
+| **[Deployment Guide](docs/DEPLOYMENT.md)** | Docker, manual deployment, production setup, and troubleshooting |
+| **[Documentation Hub](docs/README.md)** | Documentation index and quick start guide |
+
+### Who Should Read
+
+**👨‍💻 Developers**:
+- Want to understand code architecture and workflows
+- Need to contribute or customize the application
+- Looking to integrate or extend features
+
+**🔧 DevOps Engineers**:
+- Need to deploy to production environments
+- Configure and optimize system performance
+- Monitor and troubleshoot issues
+
+**📖 Tech Enthusiasts**:
+- Learn how AI-driven applications are built
+- Study full-stack project best practices
+- Research frontend-backend separation architecture
+
+### Documentation Highlights
+
+✅ **Comprehensive**: Covers all technical details from architecture to API, frontend to backend
+
+✅ **Beginner-Friendly**: Clear diagrams, complete code examples, and detailed explanations
+
+✅ **Practical**: Includes troubleshooting guides, best practices, and performance optimization tips
+
+✅ **Up-to-Date**: Continuously improved and updated as the project evolves
+
+### Quick Start
+
+```bash
+# View architecture documentation
+cat docs/ARCHITECTURE.md
+
+# View API documentation
+cat docs/API.md
+
+# View deployment guide
+cat docs/DEPLOYMENT.md
+```
+
+Or browse on GitHub: [docs/](docs/)
+
 ## 🤝 Contributing
 
 Welcome to contribute to this project through
 [Issue](https://github.com/Anionex/banana-slides/issues)
 and
 [Pull Request](https://github.com/Anionex/banana-slides/pulls)!
+
+**Before contributing, please read**:
+- [Architecture Documentation](docs/ARCHITECTURE.md) - Understand the system design
+- [Backend](docs/BACKEND.md) or [Frontend Documentation](docs/FRONTEND.md) - Understand the code structure
+- [API Documentation](docs/API.md) - Understand the API specifications
 
 ## 📄 License
 
